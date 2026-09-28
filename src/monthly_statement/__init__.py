@@ -1,0 +1,1 @@
+"""Monthly statement delivery service."""
